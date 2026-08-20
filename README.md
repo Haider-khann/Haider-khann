@@ -162,7 +162,7 @@ rkhaiderali4@gmail.com
 
 💼 **LinkedIn**
 
-[LinkedIn](https://www.linkedin.com/in/Haider-khann/)
+[LinkedIn](https://www.linkedin.com/in/haiderkhan-rk/)
 
 🐙 **GitHub**
 
