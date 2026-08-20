@@ -146,7 +146,8 @@ Personal portfolio website showcasing my projects, technical skills and developm
 
 ## 📊 GitHub Stats
 
-![Haider's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Haider-Khann&show_icons=true&theme=radical)
+![Haider's GitHub Stats](./profile/stats.svg)
+
 ---
 
 ## 🌐 Connect With Me
