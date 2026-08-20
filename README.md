@@ -146,11 +146,7 @@ Personal portfolio website showcasing my projects, technical skills and developm
 
 ## 📊 GitHub Stats
 
-![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haider-Khann\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haider-Khann\&layout=compact\&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Haider-Khann\&theme=radical)
+![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haider-Khann&show_icons=true&theme=radical)
 
 ---
 
