@@ -94,6 +94,10 @@ The system focuses on:
 
 AI-powered classroom lecture analysis using speech recognition, speaker diarization, NLP and Machine Learning.
 
+### 🤖 Jarvis — A Smart Artificial Intelligence System
+
+AI-powered intelligent assistant that can control the environment, interact with users through voice commands, automate tasks, and perform various smart operations.
+
 ### ⭐ AI Student Performance Predictor
 
 Machine Learning system that predicts student performance based on factors such as study hours, attendance, previous marks and other academic attributes.
