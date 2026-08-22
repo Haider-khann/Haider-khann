@@ -170,7 +170,7 @@ rkhaiderali4@gmail.com
 
 🌐 **Portfolio**
 
-[Portfolio](https://Haider-khann.github.io/Portfolio/)
+[[Portfolio](https://Haider-khann.github.io/Portfolio/)](https://haider-khann.github.io/portfolio/)
 
 ---
 
