@@ -1,177 +1,151 @@
-# Hi 👋, I'm Haider Khan
+<div align="center">
 
-### 🎓 Computer Science Student | 🤖 AI & Machine Learning Enthusiast | 💻 Python & C++ Developer
+# 👋 Hi, I'm Haider Khan
 
-Building software and AI-powered solutions that turn ideas into practical, real-world applications.
+### 🎓 CS Student | 🤖 AI/ML Enthusiast | 💻 Python & C++ Developer
+
+*Building AI-powered solutions that turn ideas into real-world applications*
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 BS Computer Science Student
-* 🤖 Passionate about Artificial Intelligence & Machine Learning
-* 🐍 Python & C++ Developer
-* 🧠 Interested in Machine Learning, Deep Learning, NLP & Generative AI
-* 🌐 Experienced with Web Development and Backend Development
-* 🎮 Interested in Game Development and Software Engineering
-* 🚀 Currently building AI-powered projects to solve real-world problems
-* 📚 Continuously learning new technologies and improving my development skills
+- 🎓 BS Computer Science Student
+- 🤖 Passionate about AI & Machine Learning
+- 🐍 Python & C++ Developer
+- 🧠 Interested in ML, Deep Learning, NLP & Generative AI
+- 🌐 Web & Backend Development
+- 🚀 Building AI-powered projects for real-world problems
+- 📚 Continuously learning and improving
 
 ---
 
-## 🚀 Current Project
+## ⭐ Featured Project
 
-### 🎙️ Smart Lecture Intelligence System
+### 🚀 DevPilot — AI-Powered Code Intelligence Platform
 
-An AI-powered classroom analysis system designed to understand and analyze complete classroom lectures.
+**An AI/ML platform that analyzes GitHub repositories for code quality, security, and documentation.**
 
-The system focuses on:
+| Metric | Score |
+|--------|-------|
+| Code Quality | **99.27%** 🏆 |
+| Security Score | **71%** 🛡️ |
+| Documentation | **36.52%** 📚 |
+| ML Accuracy | **100%** 🤖 |
 
-* 🎤 Converting classroom audio into text using Speech Recognition
-* 🧩 Segmenting and processing lecture audio
-* 👥 Identifying and separating different speakers
-* 👨‍🏫 Distinguishing teacher and student speakers
-* ⏱️ Associating timestamps with spoken content
-* 📝 Generating lecture notes and summaries
-* ❓ Generating quizzes from lecture content
-* 📊 Providing lecture insights through student and teacher dashboards
-* 🧠 Using AI, NLP and Machine Learning for intelligent classroom analysis
+**Features:**
+- 🔍 GitHub Repository Analysis (26+ file types)
+- 🤖 Custom ML Models (RandomForest, TF-IDF)
+- 🔒 Security Scanner (14 vulnerability patterns)
+- 💬 AI Chatbot (Google Gemini)
+- 📊 Report Generation (PDF/Word/JSON)
+- ⚖️ Repository Comparison
+
+**Tech:** `Python` `FastAPI` `scikit-learn` `SQLite` `JavaScript` `Gemini AI`
+
+🔗 [GitHub Repo](https://github.com/Haider-Khann/Devpilot)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-
-* Python
-* C++
-* C
-* JavaScript
-* SQL
+### 💻 Programming Languages
+`Python` `C++` `C` `JavaScript` `SQL`
 
 ### 🤖 AI & Machine Learning
-
-* Machine Learning
-* Deep Learning
-* Natural Language Processing (NLP)
-* Scikit-learn
-* PyTorch
-* Whisper
-* Pyannote.audio
-* Generative AI
-* Large Language Models (LLMs)
+`Machine Learning` `Deep Learning` `NLP` `Scikit-learn` `PyTorch` `Whisper` `Pyannote.audio` `Generative AI` `LLMs`
 
 ### 🌐 Web Development
-
-* HTML5
-* CSS3
-* JavaScript
-* Node.js
-* Express.js
-* React
-* REST APIs
+`HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `React` `REST APIs`
 
 ### 🗄️ Databases
+`MySQL` `MongoDB` `SQLite`
 
-* MySQL
-* MongoDB
-
-### 🔧 Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
-* Google Colab
-* Jupyter Notebook
-* Cisco Packet Tracer
-* StarUML
+### 🔧 Tools
+`Git` `GitHub` `VS Code` `Google Colab` `Jupyter Notebook`
 
 ---
 
 ## 📌 Featured Projects
 
-### ⭐ Smart Lecture Intelligence System
+### ⭐ DevPilot — AI-Powered Code Intelligence Platform
+AI/ML platform for GitHub repo analysis, security scanning, and code quality scoring.
+🔗 [Repo](https://github.com/Haider-Khann/Devpilot)
 
-AI-powered classroom lecture analysis using speech recognition, speaker diarization, NLP and Machine Learning.
+### 🎙️ Smart Lecture Intelligence System
+AI-powered classroom analysis using speech recognition, speaker diarization, and NLP.
 
-### 🤖 Jarvis — A Smart Artificial Intelligence System
+### 🤖 Jarvis — Smart AI System
+Voice-controlled intelligent assistant for automation and smart operations.
 
-AI-powered intelligent assistant that can control the environment, interact with users through voice commands, automate tasks, and perform various smart operations.
+### 📊 AI Student Performance Predictor
+ML system predicting student performance from academic attributes.
 
-### ⭐ AI Student Performance Predictor
+### 🌐 Safar-e-Pak
+Travel management web app built with React, Node.js, Express, MongoDB.
 
-Machine Learning system that predicts student performance based on factors such as study hours, attendance, previous marks and other academic attributes.
+### 🚗 Car Rental System
+DSA-based console application in C++.
 
-### ⭐ Safar-e-Pak
+### 🎮 Space Shooter Game
+2D arcade game in Python/Pygame.
 
-A travel management web application built using React, Node.js, Express and MongoDB.
+### 🐍 Snake Game
+Classic Snake game in C/C++.
 
-### ⭐ Car Rental System
-
-Console-based C++ project implementing Data Structures and Algorithms for managing vehicle rentals.
-
-### ⭐ Space Shooter Game
-
-2D arcade-style shooting game developed using Python and Pygame.
-
-### ⭐ Snake Game
-
-Classic Snake game developed using C/C++.
-
-### ⭐ Portfolio Website
-
-Personal portfolio website showcasing my projects, technical skills and development journey.
+### 💼 Portfolio Website
+Personal portfolio showcasing projects and skills.
 
 ---
 
 ## 📚 Currently Learning
 
-* 🤖 Advanced Machine Learning
-* 🧠 Deep Learning
-* 💬 NLP & Large Language Models
-* 🔎 Retrieval-Augmented Generation (RAG)
-* ✨ Generative AI
-* 🐍 Advanced Python
-* 🌐 Full-Stack Development
-* ☁️ AI Application Development
+- 🤖 Advanced Machine Learning
+- 🧠 Deep Learning
+- 💬 NLP & LLMs
+- 🔎 RAG Systems
+- ✨ Generative AI
+- 🌐 Full-Stack Development
 
 ---
 
 ## 🎯 Goals
 
-* 🚀 Build impactful AI-powered applications
-* 🧠 Become a strong AI/ML Engineer
-* 🌍 Work on real-world problems using Artificial Intelligence
-* 📖 Contribute to open-source projects
-* 💼 Grow as a professional software developer
-* 🔬 Explore AI research and publish meaningful work
+- 🚀 Build impactful AI applications
+- 🧠 Become a strong AI/ML Engineer
+- 🌍 Solve real-world problems
+- 📖 Contribute to open-source
+- 🔬 Explore AI research
 
 ---
 
 ## 📊 GitHub Stats
 
-![Haider's GitHub Stats](./profile/stats.svg)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Haider-Khann&show_icons=true&theme=radical" alt="Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haider-Khann&theme=radical" alt="Streak" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email
+<div align="center">
 
-rkhaiderali4@gmail.com
+📧 **Email:** rkhaiderali4@gmail.com
 
-💼 **LinkedIn**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haiderkhan-rk/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Haider-Khann)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=vercel)](https://haider-khann.github.io/portfolio/)
 
-[LinkedIn](https://www.linkedin.com/in/haiderkhan-rk/)
-
-🐙 **GitHub**
-
-[GitHub](https://github.com/Haider-Khann)
-
-🌐 **Portfolio**
-
-[[Portfolio](https://Haider-khann.github.io/Portfolio/)](https://haider-khann.github.io/portfolio/)
+</div>
 
 ---
 
+<div align="center">
+
 ### 💡 "Building today, learning every day, and creating the future with technology."
+
+</div>
